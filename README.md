@@ -1,6 +1,3 @@
-#### PROGRAM CHALLENGE ###
-Time completed: 7hr 8min
-
 ## STREAM EDITOR ##
 <p>Searches and replaces text or pattern<p></p>
 
