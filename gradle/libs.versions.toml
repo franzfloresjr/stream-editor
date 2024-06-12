@@ -1,0 +1,14 @@
+[versions]
+groovy-all = "4.0.21"
+junit = "5.11.0-M2"
+spock-core = "2.4-M4-groovy-4.0"
+slf4j = "2.0.13"
+
+[libraries]
+groovy-all = { module = "org.apache.groovy:groovy", version.ref = "groovy-all" }
+junit = { module = "org.junit.jupiter:junit-jupiter-api", version.ref = "junit" }
+spock-core = { module = "org.spockframework:spock-core", version.ref = "spock-core" }
+sl4fj = { module = "org.slf4j:slf4j-api", version.ref = "slf4j" }
+sl4fj-reload4j = { module = "org.slf4j:slf4j-reload4j", version.ref = "slf4j" }
+commons-cli = { module = "commons-cli:commons-cli", version = "1.8.0" }
+
